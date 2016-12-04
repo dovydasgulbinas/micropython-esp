@@ -39,4 +39,4 @@ python esptool.py --xxx
 [binaries](http://micropython.org/download)
 [miniconda2](http://conda.pydata.org/miniconda.html)
 
-[1]: www.google.com "esptool download"
+[1]: www.google.com 
